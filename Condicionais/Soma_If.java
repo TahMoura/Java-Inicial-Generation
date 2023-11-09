@@ -11,13 +11,13 @@ public class Soma_If {
 		
 		System.out.println("Verificando se a Soma de A + B é maior, menor ou igual a C.\n**************************");
 		
-		System.out.println("Digite o valor de A: ");
+		System.out.print("Digite o valor de A: ");
 		a = scan.nextInt();
 		
-		System.out.println("Digite o valor de B: ");
+		System.out.print("Digite o valor de B: ");
 		b = scan.nextInt();
 		
-		System.out.println("Digite o valor de C: ");
+		System.out.print("Digite o valor de C: ");
 		c = scan.nextInt();
 		
 		soma = a + b;
